@@ -1,0 +1,16 @@
+﻿  ser.cpp
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(75,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(76,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(90,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(91,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(97,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(98,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(100,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(115,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(116,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(129,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(130,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(131,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(132,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\ser\ser\ser.cpp(164,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  ser.vcxproj -> F:\大三上\计算机网络\lab1\群聊\ser\Debug\ser.exe

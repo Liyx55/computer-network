@@ -1,0 +1,6 @@
+﻿  cli.cpp
+F:\大三上\计算机网络\lab1\群聊\cli\cli\cli.cpp(63,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\cli\cli\cli.cpp(87,52): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\大三上\计算机网络\lab1\群聊\cli\cli\cli.cpp(95,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\大三上\计算机网络\lab1\群聊\cli\cli\cli.cpp(102,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  cli.vcxproj -> F:\大三上\计算机网络\lab1\群聊\cli\Debug\cli.exe
